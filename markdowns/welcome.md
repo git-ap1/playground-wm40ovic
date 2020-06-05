@@ -38,12 +38,12 @@ An example of this is:
 ```
 public class TrigConstants
 {
-    public static double Fact_2 = 1 / Math.Factorial(2);
-    public static double Fact_3 = 1 / Math.Factorial(3);
-    public static double Fact_4 = 1 / Math.Factorial(4);
-    public static double Fact_5 = 1 / Math.Factorial(5);
-    public static double Fact_6 = 1 / Math.Factorial(6);
-    public static double Fact_7 = 1 / Math.Factorial(7);
+    public static double Fact_2 = 1.0 / Math.Factorial(2);
+    public static double Fact_3 = 1.0 / Math.Factorial(3);
+    public static double Fact_4 = 1.0 / Math.Factorial(4);
+    public static double Fact_5 = 1.0 / Math.Factorial(5);
+    public static double Fact_6 = 1.0 / Math.Factorial(6);
+    public static double Fact_7 = 1.o / Math.Factorial(7);
 }
 ```
 We precompute the reciprocals as the division operator is a lot slower than the multiplication operator
