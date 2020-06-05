@@ -1,1 +1,3 @@
-# How are Functions Calculated.
+# Usage of Trigonometry.
+
+Trigonometric functions are basic functions that are very useful in dealing with coordinate axis maps as we do on codingame. It allows
